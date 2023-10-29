@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning as a Information System student<br>🎯 Goals: Improve my skills<br>🎲 Fun fact: This is my first year as a College student</p>
+<p align="left">📚 I'm currently learning as a Information System student<br>🎯 Goals: Improve my skills<br>🎲 Fun fact: This is my first year as a College student<br>#DFCAMCLPhacktoberfest2023</p>
 
 ###
 
