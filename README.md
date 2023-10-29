@@ -1,7 +1,8 @@
 # Ferds-Github
 <h1 align="left">Hey 👋 What's up?</h1>
-
-###
+<div align="left">
+  <img src="https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" />
+</div>
 
 <p align="left">My name is Ferds and I'm a new developer, from DFCAMCLP Satellite Campus</p>
 
