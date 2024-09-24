@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning as a Information System student<br>🎯 Goals: Improve my skills<br>🎲 Fun fact: I enjoy watching tech vids in youtube like LinusTechTips<br>#DFCAMCLPhacktoberfest2023</p>
+<p align="left">📚 I'm currently learning as a 2nd year Information System student<br>🎯 Goals: Improve my skills<br>🎲 Fun fact: I enjoy watching tech vids in youtube like LinusTechTips<br>#DFCAMCLPhacktoberfest2023</p>
 
 ###
 
