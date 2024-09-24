@@ -4,7 +4,7 @@
   <img src="https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" />
 </div>
 
-<p align="left">My name is Ferds and I'm a new developer, from DFCAMCLP Satellite Campus</p>
+<p align="left">My name is Ferds and I'm a new developer, from Dr. Filemon C. Aguilar Memorial Collage of Las Pinas Satellite Campus</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning as a Information System student<br>🎯 Goals: Improve my skills<br>🎲 Fun fact: This is my first year as a College student<br>#DFCAMCLPhacktoberfest2023</p>
+<p align="left">📚 I'm currently learning as a Information System student<br>🎯 Goals: Improve my skills<br>🎲 Fun fact: I enjoy watching tech vids in youtube like LinusTechTips<br>#DFCAMCLPhacktoberfest2023</p>
 
 ###
 
