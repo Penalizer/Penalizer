@@ -23,6 +23,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://imgs.search.brave.com/PYqebDRlq5nZ8a6wsXS1tK1ym-vgO-KloZZweibIt8A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2MzL1B5/dGhvbi1sb2dvLW5v/dGV4dC5zdmcvNjQw/cHgtUHl0aG9uLWxv/Z28tbm90ZXh0LnN2/Zy5wbmc" height="40" alt="python logo">
+  <img width="12">
 </div>
 
 ###
