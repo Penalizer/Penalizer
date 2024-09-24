@@ -4,7 +4,7 @@
   <img src="https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" />
 </div>
 
-<p align="left">My name is Ferds and I'm a new developer, from Dr. Filemon C. Aguilar Memorial Collage of Las Pinas Satellite Campus</p>
+<p align="left">My name is Ferdie you can call me ferds and I'm a new developer, from Dr. Filemon C. Aguilar Memorial Collage of Las Pinas Satellite Campus.</p>
 
 ###
 
