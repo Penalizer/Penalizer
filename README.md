@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://imgs.search.brave.com/Fi_FpMp_GH2w9zhhN2YqKjziUcQn2axPqc8UQ7vSKhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9qYXZhLWxvZ28t/MS5wbmc)" height="40" alt="java logo"  />
+  <img src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](https://imgs.search.brave.com/Fi_FpMp_GH2w9zhhN2YqKjziUcQn2axPqc8UQ7vSKhY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9qYXZhLWxvZ28t/MS5wbmc)](https://imgs.search.brave.com/qR255R_pMbMeR6A80wBdQ2ZX6j7G8XMmdnaehdEOcAo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzLzczMV9q/YXZhLmpwZw)" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://imgs.search.brave.com/PYqebDRlq5nZ8a6wsXS1tK1ym-vgO-KloZZweibIt8A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2MzL1B5/dGhvbi1sb2dvLW5v/dGV4dC5zdmcvNjQw/cHgtUHl0aG9uLWxv/Z28tbm90ZXh0LnN2/Zy5wbmc" height="40" alt="python logo">
   <img width="12">
