@@ -21,12 +21,10 @@
 ###
 
 <div align="left">
-  <img src="https://imgs.search.brave.com/0vjHL1adfQ6ftTpx14IW3p2D1GrGqD76RFbMvSp-3WQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvSmF2YV9s/b2dvLTQxNHg3MDAu/cG5n" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://imgs.search.brave.com/PYqebDRlq5nZ8a6wsXS1tK1ym-vgO-KloZZweibIt8A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2MzL1B5/dGhvbi1sb2dvLW5v/dGV4dC5zdmcvNjQw/cHgtUHl0aG9uLWxv/Z28tbm90ZXh0LnN2/Zy5wbmc" height="40" alt="python logo">
-  <img width="12">
-  <img src="https://imgs.search.brave.com/hSJgAyQ91FuTv-jQo7xdKUJYM3OCFE3ASEWj7l2X5c4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L0lT/T19DJTJCJTJCX0xv/Z28uc3ZnLzY0MHB4/LUlTT19DJTJCJTJC/X0xvZ28uc3ZnLnBu/Zw" height="40" alt="c++ logo">
-  <img width="12">
+  <img src="https://imgs.search.brave.com/0vjHL1adfQ6ftTpx14IW3p2D1GrGqD76RFbMvSp-3WQ/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMTAvSmF2YV9s/b2dvLTQxNHg3MDAu/cG5n" height="40" width="12" alt="java logo"  />
+  <img src="https://imgs.search.brave.com/PYqebDRlq5nZ8a6wsXS1tK1ym-vgO-KloZZweibIt8A/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9jL2MzL1B5/dGhvbi1sb2dvLW5v/dGV4dC5zdmcvNjQw/cHgtUHl0aG9uLWxv/Z28tbm90ZXh0LnN2/Zy5wbmc" height="40" width="12" alt="python logo">
+  <img src="https://imgs.search.brave.com/hSJgAyQ91FuTv-jQo7xdKUJYM3OCFE3ASEWj7l2X5c4/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8xLzE4L0lT/T19DJTJCJTJCX0xv/Z28uc3ZnLzY0MHB4/LUlTT19DJTJCJTJC/X0xvZ28uc3ZnLnBu/Zw" height="40" width="12" alt="c++ logo">
+  <img src="https://e7.pngegg.com/pngimages/185/866/png-clipart-html-logo-html-web-design-scalable-graphics-world-wide-web-markup-language-html5-icon-hd-miscellaneous-angle.png" height="40" width="12" alt="html logo">
 </div>
 
 ###
